@@ -1,4 +1,37 @@
-# AKEP Block Liste
+# Officia list of blocked domains in Republic of Albania
+# AKEP (Albanian Electronic and Postal Communications Authority)
+
+# +++ Mail Date 18-10-2024 from AMA +++
+0.0.0.0 e-droid.net
+0.0.0.0 skatv.net
+0.0.0.0 tooliverse.online
+0.0.0.0 cybertoolz.online
+0.0.0.0 ariu.eu.org
+0.0.0.0 albkanale.com
+0.0.0.0 apkview.com
+# +++++++++++++++++++++++++++++++++++++
+# +++ Mail Date 09-10-2024 from AKSK +++
+0.0.0.0 differentia.ru
+0.0.0.0 disorderstatus.ru
+0.0.0.0 rmyxbgya.info
+0.0.0.0 efab984dca11h.net
+# +++++++++++++++++++++++++++++++++++++
+# +++ Mail Date 07-10-2024 from AKSK +++
+0.0.0.0 merrnireagime.uncody.site
+0.0.0.0 uncody.site
+# +++++++++++++++++++++++++++++++++++++
+# +++ Mail Date 30-09-2024 from AKSK +++
+0.0.0.0 way4sale2.shop
+# +++++++++++++++++++++++++++++++++++++
+# +++ Mail Date 27-09-2024 from AKSK +++
+0.0.0.0 various-wages.gl.at.ply.gg
+# +++++++++++++++++++++++++++++++++++++
+# +++ Mail Date 24-09-2024 from AKSK +++
+0.0.0.0 prize4you2.store
+# +++++++++++++++++++++++++++++++++++++
+# +++ List Below is based on pdf file below 24-09-2024 +++
+# +++ https://akep.al/wp-content/uploads/2024/09/Lista-e-domaineve-url-per-bllokim-aksesi-perditesuar-24.09.2024.pdf +++
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 0.0.0.0 crowdstrike.phpartners.org
 0.0.0.0 crowdstrike0day.com
 0.0.0.0 crowdstrikebluescreen.com
