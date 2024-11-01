@@ -1,7 +1,7 @@
 # Officia list of blocked domains in Republic of Albania
 # AKEP (Albanian Electronic and Postal Communications Authority)
 
-# +++ Mail Date 28-10-2024 from AMA / Total 6567 +++
+# +++ Mail Date 28-10-2024 from AMA / Total 6570 +++
 0.0.0.0 mag.dino.ws
 0.0.0.0 mag.ottest.com
 0.0.0.0 filma24.blog
@@ -9,14 +9,17 @@
 0.0.0.0 yanlon.xyz
 # +++++++++++++++++++++++++++++++++++++
 
-# +++ Mail Date 18-10-2024 from AMA / Total 6562 +++
+# +++ Mail Date 18-10-2024 from AMA / Total 6565 +++
 0.0.0.0 e-droid.net
+0.0.0.0 www.e-droid.net
 0.0.0.0 skatv.net
 0.0.0.0 tooliverse.online
 0.0.0.0 cybertoolz.online
 0.0.0.0 ariu.eu.org
 0.0.0.0 albkanale.com
+0.0.0.0 www.albkanale.com
 0.0.0.0 apkview.com
+0.0.0.0 www.apkview.com
 # +++++++++++++++++++++++++++++++++++++
 # +++ Mail Date 09-10-2024 from AKSK +++
 0.0.0.0 differentia.ru
